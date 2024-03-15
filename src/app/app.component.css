@@ -1,0 +1,52 @@
+.tables{
+    display: flex;
+    flex-direction: row;
+    gap: 3.5em;
+    justify-content: center;
+}
+.pole{
+    display: inline-block;
+    margin: 10px;
+}
+label{
+    display: block;
+}
+input[type="submit"]{
+    padding: 10px;
+}
+.tr_bold{
+    color:white;
+    font-weight: bold;
+}
+.c_table{
+background-color: black;
+border-collapse: collapse;
+border:1px solid black;
+}
+
+.tr_u{
+    background-color: white;
+    color: black;
+    border: none;
+}
+.tr-1{
+background-color: white;
+}
+.tr-2{
+    background-color: lightgray;
+    }
+.tr-3{
+    background-color: white;
+    }
+    .tr-4{
+        background-color: lightgray;
+        }
+        .tr-5{
+            background-color: white;
+            }
+          
+.actions{
+    margin: 6px;
+}
+.actions button{
+}
